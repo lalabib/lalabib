@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Labib
+### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Labib
 
 - 🔭 I’m currently study at Gunadarma University
 - 🌱 I’m currently learning about Android Development
@@ -17,4 +17,7 @@
 - <a href="https://linkedin.com/in/labibhiba/">LinkedIn</a>
 - <a href="https://instagram.com/labibbh">Instagram</a>
 - <a href="https://twitter.com/labibhiba">Twitter</a>
-- labibla21@gmail.com
+
+![giphy](https://user-images.githubusercontent.com/57593172/130980390-66449eb7-21a3-4a4b-ab9d-0ce59cb1cc9f.gif)
+
+![Profile views](https://gpvc.arturio.dev/lalabib)
