@@ -1,3 +1,20 @@
-### Hi there 👋
+### Hi! 👋 I'm Labib
 
-- I’m Labib Hibatullah 
+- 🔭 I’m currently study at Gunadarma University
+- 🌱 I’m currently learning about Android Development
+- 📫 How to reach me: labibla21@gmail.com 
+- ⚡ I'm interested in Cyptocurrencies 
+
+ ### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lalabib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lalabib&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach Me On
+- <a href="https://linkedin.com/in/labibhiba/">LinkedIn</a>
+- <a href="https://instagram.com/labibbh">Instagram</a>
+- <a href="https://twitter.com/labibhiba">Twitter</a>
+- labibla21@gmail.com
