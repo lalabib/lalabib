@@ -8,7 +8,7 @@
  ### Github Statistic
 <p align="left">
 <a href="https://github.com/lalabib">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lalabib&show_icons=true&theme=algolia&include_all_commits=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lalabib&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lalabib&layout=compact&langs_count=999&theme=algolia"/>
 </a>
 </p>
