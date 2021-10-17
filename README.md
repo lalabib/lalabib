@@ -1,6 +1,5 @@
 ### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Labib
 
-- 🔭 I’m Information System student at Gunadarma University
 - 🌱 I’m currently learning about Android Development
 - 📫 How to reach me: labibla21@gmail.com 
 - ⚡ I'm interested in Cyptocurrencies 
