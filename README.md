@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning about Android Development
 - 📫 How to reach me: labibla21@gmail.com 
+- 💻 Currently developing with Android Native Kotlin
 - ⚡ I'm interested in Cyptocurrencies 
 
  ### Github Statistic
