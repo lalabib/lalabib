@@ -1,9 +1,9 @@
 ### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Labib
 
 - 🌱 I’m currently learning about Android Development
-- 📫 How to reach me: labibla21@gmail.com 
 - 💻 Currently developing with Android Kotlin
 - ⚡ I'm interested in Cyptocurrencies 
+- 📫 How to reach me: labibla21@gmail.com 
 
  ### Github Statistic
 <p align="left">
