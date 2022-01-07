@@ -20,5 +20,4 @@
 
 ![giphyy](https://user-images.githubusercontent.com/57593172/133808392-de59f0d2-7487-4a3c-aa70-51d03b5de7ee.gif)
 
-![Profile views](https://gpvc.arturio.dev/lalabib)
 
