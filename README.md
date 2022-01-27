@@ -8,8 +8,8 @@
  ### Github Statistic
 <p align="left">
 <a href="https://github.com/lalabib">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lalabib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lalabib&layout=compact&langs_count=49&theme=algolia"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lalabib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lalabib&layout=compact&langs_count=49&theme=algolia"/>
 </a>
 </p>
 
@@ -18,6 +18,7 @@
 - <a href="https://instagram.com/labibbh">Instagram</a>
 - <a href="https://twitter.com/labibhiba">Twitter</a>
 
-![giphyy](https://user-images.githubusercontent.com/57593172/133808392-de59f0d2-7487-4a3c-aa70-51d03b5de7ee.gif)
-
+<p align='center'>
+ <img height="180" src="https://user-images.githubusercontent.com/57593172/133808392-de59f0d2-7487-4a3c-aa70-51d03b5de7ee.gif"/>
+</p>
 
