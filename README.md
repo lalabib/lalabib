@@ -13,12 +13,12 @@
 </a>
 </p>
 
-### Reach Me On
+### Connect with me
 - <a href="https://linkedin.com/in/labibhiba/">LinkedIn</a>
 - <a href="https://instagram.com/labibbh">Instagram</a>
 - <a href="https://twitter.com/labibhiba">Twitter</a>
 
-<p align='center'>
- <img height="220" src="https://user-images.githubusercontent.com/57593172/133808392-de59f0d2-7487-4a3c-aa70-51d03b5de7ee.gif"/>
+<p align='left'>
+ <img height="320" src="https://user-images.githubusercontent.com/57593172/133808392-de59f0d2-7487-4a3c-aa70-51d03b5de7ee.gif"/>
 </p>
 
