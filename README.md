@@ -1,7 +1,7 @@
 ### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Labib
 
-- 🌱 I’m currently learning about Android Development
-- 💻 Currently developing with Android Native Kotlin
+- 🏫 I’m Information System student at Gunadarma University
+- 💻 I'm Currently developing Android apps using Kotlin
 - ⚡ I'm interested in Cyptocurrencies 
 - 📫 How to reach me: labibla21@gmail.com 
 
