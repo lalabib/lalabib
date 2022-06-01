@@ -1,4 +1,4 @@
-### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="21px"> I'm Labib
+### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25"> I'm Labib
 
 - 🏫 I’m Information System student at Gunadarma University
 - 💻 I'm Currently developing Android apps using Kotlin
