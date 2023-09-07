@@ -1,7 +1,7 @@
 ### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25"> I'm Labib
 
 - 💻 I'm Currently developing Android apps using Kotlin
-- ⚡ I'm interested in Cyptocurrencies 
+- ⚡ I'm interested in Cryptocurrencies 
 - 📫 How to reach me: labibla21@gmail.com 
 
  ### Github Statistic
