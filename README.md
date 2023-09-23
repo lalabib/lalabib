@@ -1,4 +1,4 @@
-### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25"> I'm Labib
+Hi! <img height="25" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"/> I'm Labib!
 
 - 💻 I'm Currently developing Android apps using Kotlin
 - ⚡ I'm interested in Cryptocurrencies 
