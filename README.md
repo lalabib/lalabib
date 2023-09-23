@@ -12,10 +12,18 @@ Hi! <img height="25" src="https://raw.githubusercontent.com/iampavangandhi/iampa
 </a>
 </p>
 
-### Connect with me
-- <a href="https://linkedin.com/in/labibhiba/">LinkedIn</a>
-- <a href="https://instagram.com/labibbh">Instagram</a>
-- <a href="https://twitter.com/labibhiba">Twitter</a>
+### Let's Connect
+<p align="left">
+   <a href="https://www.linkedin.com/in/labibhiba">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C"/>
+  </a>
+  <a href="https://x.com/labibhiba">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C"/>
+  </a>
+  <a href="https://instagram.com/labibbh">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C"/>
+  </a>
+</p>
 
 <p align='left'>
  <img height="220" src="https://user-images.githubusercontent.com/57593172/133808392-de59f0d2-7487-4a3c-aa70-51d03b5de7ee.gif"/>
