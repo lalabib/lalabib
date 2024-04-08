@@ -20,9 +20,6 @@ Hi! <img height="25" src="https://raw.githubusercontent.com/iampavangandhi/iampa
   <a href="https://x.com/labibhiba">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C"/>
   </a>
-  <a href="https://instagram.com/labibbh">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C"/>
-  </a>
 </p>
 
 <p align='left'>
