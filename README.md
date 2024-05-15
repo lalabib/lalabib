@@ -4,6 +4,9 @@ Hi! <img height="25" src="https://raw.githubusercontent.com/iampavangandhi/iampa
 - ⚡ Kotlin is Fun
 - 📫 How to reach me: labibla21@gmail.com 
 
+ ### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,firebase,figma,vscode,notion,postman,git,discord)](https://skillicons.dev)
+
  ### Github Statistic
 <p align="left">
 <a href="https://github.com/lalabib">
