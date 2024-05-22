@@ -5,7 +5,7 @@ Hi! <img height="25" src="https://raw.githubusercontent.com/iampavangandhi/iampa
 - 📫 How to reach me: labibla21@gmail.com 
 
  ### Tech Stack
-![My Skills](https://icons.islandboy.mv/api/icons?i=androidstudio,kotlin,jetpack,gradle,firebase,figma,vscode,notion,git,postman,discord)
+![My Skills](https://icons.islandboy.mv/icons?i=androidstudio,kotlin,jetpack,gradle,firebase,figma,vscode,notion,git,postman,discord)
 
  ### Github Statistic
 <p align="left">
